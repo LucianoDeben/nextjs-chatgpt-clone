@@ -33,6 +33,6 @@ body {
   }
 
   .chatRow {
-    @apply rounded-lg px-5 py-3 text-sm flex items-center justify-center space-x-2 hover:bg-gray-700/70 cursor-pointer text-gray-300 transition-all duration-300 ease-out;
+    @apply rounded-lg px-5 my-2 py-3 text-sm flex items-center justify-center space-x-2 hover:bg-gray-700/70 cursor-pointer text-gray-300 transition-all duration-300 ease-out;
   }
 }
